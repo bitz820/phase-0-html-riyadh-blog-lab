@@ -32,17 +32,22 @@ h1, h2 {
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+ text-align: center;
+ color: sienna;
 }
 
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  text-align: center;
+  color: rgba(255, 187, 0, 0.842);
 }
 
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  text-align: center;
 }
 
 img {
@@ -52,11 +57,12 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: .88em;
 }
 
 a {
-  color: black;
+  color: black;  
+  text-align: center;
   text-decoration: none;
 }
 
